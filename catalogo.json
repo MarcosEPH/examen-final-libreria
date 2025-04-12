@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "titulo": "FECHAS QUE HICIERON HISTORIA",
+    "autor": "BOUCHERON, PATRICK",
+    "precio": 230,
+    "anio": 2024
+  },
+  {
+    "titulo": "THEODOROS",
+    "autor": "CARTARESCU, MIRCEA",
+    "precio": 280,
+    "anio": 2024
+  },
+  {
+    "titulo": "1",
+    "autor": "FRANCISCO PEREZ DE ANTON",
+    "precio": 190,
+    "anio": 2016
+  },
+  {
+    "titulo": "LA CASA DE LOS ESP�RITUS",
+    "autor": "ALLENDE, ISABEL",
+    "precio": 120,
+    "anio": 2009
+  }
+]
