@@ -1,1 +1,1 @@
-# Examen-parcial-2
+Este es un proyecto de consola hecho en Node.js para gestionar el inventario de libros de una pequeña librería. Permite agregar, editar, buscar, eliminar, ordenar y analizar libros de forma sencilla y sin necesidad de una base de datos externa.
